@@ -1,1 +1,0 @@
-Your Chrome should be located here.
